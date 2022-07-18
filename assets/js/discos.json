@@ -1,0 +1,418 @@
+[
+    {
+        "id": 1,
+        "artista": "Gorillaz",
+        "nombre": "Gorillaz",
+        "genero": "Rock Alternativo",
+        "pais": "Inglaterra",
+        "año": 2001,
+        "precio": 8800,
+        "img": "./assets/img/albumes/gorillaz-2001.jpg",
+        "url": "https://open.spotify.com/embed/track/1RKUoGiLEbcXN4GY4spQDx?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 2,
+        "artista": "Gorillaz",
+        "nombre": "Demon Days",
+        "genero": "Rock Alternativo",
+        "pais": "Inglaterra",
+        "año": 2005,
+        "precio": 8600,
+        "img": "./assets/img/albumes/demon-days.jpg",
+        "url": "https://open.spotify.com/embed/track/2bfGNzdiRa1jXZRdfssSzR?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 3,
+        "artista": "Gorillaz",
+        "nombre": "Plastic Beach",
+        "genero": "Rock Alternativo",
+        "pais": "Inglaterra",
+        "año": 2010,
+        "precio": 9000,
+        "img": "./assets/img/albumes/plastic-beach.jpg",
+        "url": "https://open.spotify.com/embed/track/46WOptLnXUtH3LOyYvmMO1?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 4,
+        "artista": "Red Hot Chili Peppers",
+        "nombre": "Blood Sugar Sex Magic",
+        "genero": "Funk",
+        "pais": "Estados Unidos",
+        "año": 1991,
+        "precio": 9000,
+        "img": "./assets/img/albumes/blood-sugar.jpg",
+        "url": "https://open.spotify.com/embed/track/5TYQonY07iJP2ULhR4ptce?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 5,
+        "artista": "Red Hot Chili Peppers",
+        "nombre": "Californication",
+        "genero": "Funk",
+        "pais": "Estados Unidos",
+        "año": 1999,
+        "precio": 9000,
+        "img": "./assets/img/albumes/californication.jpg",
+        "url": "https://open.spotify.com/embed/track/1Se0r96r0gnqg67kJPmESc?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 6,
+        "artista": "Red Hot Chili Peppers",
+        "nombre": "Stadium Arcadium",
+        "genero": "Funk",
+        "pais": "Estados Unidos",
+        "año": 2006,
+        "precio": 9000,
+        "img": "./assets/img/albumes/stadium-arcadium.jpg",
+        "url": "https://open.spotify.com/embed/track/4y84ILALZSa4LyP6H7NVjR?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 6,
+        "artista": "Daft Punk",
+        "nombre": "Random Access Memories",
+        "genero": "Funk",
+        "pais": "Francia",
+        "año": 2013,
+        "precio": 8600,
+        "img": "./assets/img/albumes/ram.webp",
+        "url": "https://open.spotify.com/embed/track/5CMjjywI0eZMixPeqNd75R?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 7,
+        "artista": "FKJ (French Kiwi Juice)",
+        "nombre": "French Kiwi Juice",
+        "genero": "R&B, Nu jazz",
+        "pais": "Francia",
+        "año": "2017",
+        "precio": 8600,
+        "img": "./assets/img/albumes/french-kiwi-juice.jpg",
+        "url": "https://open.spotify.com/embed/track/3KrTlYioYhUIvd8IoptcTN?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 8,
+        "artista": "FKJ (French Kiwi Juice)",
+        "nombre": "Just Piano",
+        "genero": "R&B, Nu jazz",
+        "pais": "Francia",
+        "año": "2021",
+        "precio": 8600,
+        "img": "./assets/img/albumes/just-piano.jpg",
+        "url": "https://open.spotify.com/embed/album/5SE9QAP8pab2Ke1Tce1EeJ?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 9,
+        "artista": "Mac Miller",
+        "nombre": "Blue Slide Park",
+        "genero": "Hip hop, R&B contemporáneo",
+        "pais": "Estados Unidos",
+        "año": "2011",
+        "precio": 8600,
+        "img": "./assets/img/albumes/blue-slide-park.jpg",
+        "url": "https://open.spotify.com/embed/album/6VhDYmsjHqRxKXd0z7hmXI?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 10,
+        "artista": "Mac Miller",
+        "nombre": "Watching Movies with the Sound Off",
+        "genero": "Hip hop, R&B contemporáneo",
+        "pais": "Estados Unidos",
+        "año": "2013",
+        "precio": 8600,
+        "img": "./assets/img/albumes/watching-movies.webp",
+        "url": "https://open.spotify.com/embed/album/3T02fCxAjApu18taJLLbyN?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 11,
+        "artista": "Mac Miller",
+        "nombre": "GO:OD AM",
+        "genero": "Hip hop, R&B contemporáneo",
+        "pais": "Estados Unidos",
+        "año": "2015",
+        "precio": 8600,
+        "img": "./assets/img/albumes/good-am.jpg",
+        "url": "https://open.spotify.com/embed/album/2Tyx5dLhHYkx6zeAdVaTzN?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 12,
+        "artista": "Mac Miller",
+        "nombre": "Circles",
+        "genero": "Hip hop, R&B contemporáneo",
+        "pais": "Estados Unidos",
+        "año": "2020",
+        "precio": 8600,
+        "img": "./assets/img/albumes/circles.jpg",
+        "url": "https://open.spotify.com/embed/album/5sY6UIQ32GqwMLAfSNEaXb?utm_source=generator&theme=0",
+        "stock": 1
+    },
+    {
+        "id": 13,
+        "artista": "Anderson .Paak",
+        "nombre": "Venice",
+        "genero": "R&B, Funk, Soul",
+        "pais": "Estados Unidos",
+        "año": "2014",
+        "precio": 8600,
+        "img": "./assets/img/albumes/venice.jpg",
+        "url": "https://open.spotify.com/embed/album/2DOiha5oI19Dmw5M9ryHD8?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 14,
+        "artista": "Anderson .Paak",
+        "nombre": "Malibu",
+        "genero": "R&B, Funk, Soul",
+        "pais": "Estados Unidos",
+        "año": "2016",
+        "precio": 8600,
+        "img": "./assets/img/albumes/malibu.jpg",
+        "url": "https://open.spotify.com/embed/album/4VFG1DOuTeDMBjBLZT7hCK?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 15,
+        "artista": "Anderson .Paak",
+        "nombre": "Oxnard",
+        "genero": "R&B, Funk, Soul",
+        "pais": "Estados Unidos",
+        "año": "2018",
+        "precio": 8600,
+        "img": "./assets/img/albumes/oxnard.webp",
+        "url": "https://open.spotify.com/embed/album/3rqqwtJE89WoWvMyPTvbZc?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 16,
+        "artista": "Anderson .Paak",
+        "nombre": "Ventura",
+        "genero": "R&B, Funk, Soul",
+        "pais": "Estados Unidos",
+        "año": "2019",
+        "precio": 8600,
+        "img": "./assets/img/albumes/ventura.jpg",
+        "url": "https://open.spotify.com/embed/album/0YF8PfcGbsKg5IaFyPnlyY?utm_source=generator&theme=0",
+        "stock": 1
+    },
+    {
+        "id": 17,
+        "artista": "Radiohead",
+        "nombre": "Kid A",
+        "genero": "Rock Alternativo",
+        "pais": "Inglaterra",
+        "año": "2000",
+        "precio": 8600,
+        "img": "./assets/img/albumes/kid-a.jpg",
+        "url": "https://open.spotify.com/embed/album/6GjwtEZcfenmOf6l18N7T7?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 18,
+        "artista": "Radiohead",
+        "nombre": "In Rainbows",
+        "genero": "Rock Alternativo",
+        "pais": "Inglaterra",
+        "año": "2007",
+        "precio": 8600,
+        "img": "./assets/img/albumes/in-rainbows.jpg",
+        "url": "https://open.spotify.com/embed/album/5vkqYmiPBYLaalcmjujWxK?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 19,
+        "artista": "Artic Monkeys",
+        "nombre": "Favourite Worst Nightmare",
+        "genero": "Indie rock",
+        "pais": "Inglaterra",
+        "año": "2007",
+        "precio": 8600,
+        "img": "./assets/img/albumes/favourite-worst-nightmare.jpg",
+        "url": "https://open.spotify.com/embed/album/1XkGORuUX2QGOEIL4EbJKm?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 19,
+        "artista": "Artic Monkeys",
+        "nombre": "AM",
+        "genero": "Indie rock",
+        "pais": "Inglaterra",
+        "año": "2013",
+        "precio": 8600,
+        "img": "./assets/img/albumes/am.jpg",
+        "url": "https://open.spotify.com/embed/album/78bpIziExqiI9qztvNFlQu?utm_source=generator&theme=0",
+        "stock": 1
+    },
+    {
+        "id": 20,
+        "artista": "The Racounters",
+        "nombre": "Broken Boy Soldiers",
+        "genero": "Rock Alternativo",
+        "pais": "Estados Unidos",
+        "año": "2006",
+        "precio": 8600,
+        "img": "./assets/img/albumes/broken-boy-soldiers.jpg",
+        "url": "https://open.spotify.com/embed/album/4Z1sCXBHHKWCsScOLAfuig?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 20,
+        "artista": "The White Stripes",
+        "nombre": "Elephant",
+        "genero": "Rock Alternativo",
+        "pais": "Estados Unidos",
+        "año": "2003",
+        "precio": 8600,
+        "img": "./assets/img/albumes/elephant.jpg",
+        "url": "https://open.spotify.com/embed/album/6D9urpsOWWKtYvF6PaorGE?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 21,
+        "artista": "Massive Attack",
+        "nombre": "Mezzanine",
+        "genero": "Trip-Hop",
+        "pais": "Inglaterra",
+        "año": "1998",
+        "precio": 8600,
+        "img": "./assets/img/albumes/mezzanine.jpg",
+        "url": "https://open.spotify.com/embed/album/49MNmJhZQewjt06rpwp6QR?utm_source=generator&theme=0",
+        "stock": 1
+    },
+    {
+        "id": 22,
+        "artista": "Prodigy",
+        "nombre": "The Fat of the Land",
+        "genero": "Rock Alternativo",
+        "pais": "Inglaterra",
+        "año": "1997",
+        "precio": 8600,
+        "img": "./assets/img/albumes/fat-of-the-land.jpg",
+        "url": "https://open.spotify.com/embed/album/4fdgcEVMdJe0KVgupMNJAP?utm_source=generator",
+        "stock": 1
+    },
+    {
+        "id": 23,
+        "artista": "Rage Against the Machine",
+        "nombre": "Evil Empire",
+        "genero": "Funk metal",
+        "pais": "Estados Unidos",
+        "año": "1996",
+        "precio": 8600,
+        "img": "./assets/img/albumes/evil-empire.jpg",
+        "url": "https://open.spotify.com/embed/album/24E6rDvGDuYFjlGewp4ntF?utm_source=generator",
+        "stock": 1
+    },
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+    {
+        "id": 1,
+        "artista": "Charly García",
+        "nombre": "Clicks Modernos",
+        "genero": "New Wave",
+        "pais": "Argentina",
+        "año": 1983,
+        "precio": 6200,
+        "img": "./assets/img/albumes/charly1.jpg",
+        "url": "",
+        "stock": 1
+    },
+    {
+        "id": 2,
+        "artista": "Charly García",
+        "nombre": "Piano Bar",
+        "genero": "New Wave",
+        "pais": "Argentina",
+        "año": 1984,
+        "precio": 4500,
+        "img": "./assets/img/albumes/charly2.jpg",
+        "url": "",
+        "stock": 1
+    },
+    {
+        "id": 3,
+        "artista": "Charly García",
+        "nombre": "Filosofía barata y zapatos de goma",
+        "genero": "New wave",
+        "pais": "Argentina",
+        "año": 1990,
+        "precio": 7000,
+        "img": "./assets/img/albumes/charly3.jpg",
+        "url": "",
+        "stock": 1
+    },
+    {
+        "id": 4,
+        "artista": "Luis Alberto Spinetta",
+        "nombre": "Peluson of Milk",
+        "genero": "Rock psicodelico",
+        "pais": "Argentina",
+        "año": 1991,
+        "precio": 5900,
+        "img": "./assets/img/albumes/spinetta1.jpg",
+        "url": "",
+        "stock": 1
+    },
+    {
+        "id": 5,
+        "artista": "Luis Alberto Spinetta",
+        "nombre": "Para los arboles",
+        "genero": "Rock psicodelico",
+        "pais": "Argentina",
+        "año": 2003,
+        "precio": 6200,
+        "img": "./assets/img/albumes/spinetta2.jpg",
+        "url": "",
+        "stock": 1
+    },
+    {
+        "id": 6,
+        "artista": "Luis Alberto Spinetta",
+        "nombre": "Artaud",
+        "genero": "Rock psicodelico",
+        "pais": "Argentina",
+        "año": 1973,
+        "precio": 8600,
+        "img": "./assets/img/albumes/spinetta3.jpg",
+        "url": "",
+        "stock": 1
+    }
+
+
+]
+
