@@ -1,4 +1,4 @@
-[LIVE DEMO](https://julianbattaglino.github.io/High-Fidelity-Store---v11--Proyecto-Final-/)
+[LIVE DEMO](https://julianbattaglino.github.io/High-Fidelity-Store-Final-Version-/)
 
 ## Proyecto Final Curso de Javascript - Coderhouse 
 ### Comision 31650 - Julian Battaglino
@@ -8,9 +8,9 @@
  E-commerce High Fidelity Store - Tienda de discos de musica.
 
  - Filtering products using Javascript array methods
- - Add to cart & Localstorage 
- - Toggle Dark Mode (Light & Dark Mode) ---> Comming soon
- - Spotify Embedded Albums demos 
+ - Toggle Dark Mode (Light & Dark Mode)
+ - Add to cart & Localstorage
+
 
 ## ⚡ Librerias Utilizadas
 
