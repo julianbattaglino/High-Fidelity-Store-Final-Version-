@@ -18,7 +18,7 @@
 - Font Awesome 6.1.1
 - Swwetalert2.js
 
-![Julian Battaglino - Javascript Coderhouse - Proyecto Final](/assets/img/screenshot.png "Proyecto Final Javascript")
+![Julian Battaglino - Javascript Coderhouse - Proyecto Final](/assets/img/presentation.png "Proyecto Final Javascript")
 
 
 
