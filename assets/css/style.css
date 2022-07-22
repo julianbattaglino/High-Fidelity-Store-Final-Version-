@@ -369,12 +369,17 @@ body.dark .add {
 }
 
 body.dark article {
-    background-color: #2c2c2c;
+    background-color: #262626;
     -webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 
 }
+body.dark article:hover {
+    background-color: #323232;
+    transition: 0.4s;
+}
+
 
 body.dark article.row {
     background-color: #ececec;
